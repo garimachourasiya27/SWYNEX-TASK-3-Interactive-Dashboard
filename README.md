@@ -198,8 +198,6 @@ SWYNEX-Cafe-Sales-Analytics/
 └── SWYNEX_SalesInsights.png
 </pre>
 
-<p><em>Note: Update the filenames in the repository structure to match the files you actually upload to GitHub.</em></p>
-
 <hr>
 
 
